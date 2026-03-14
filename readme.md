@@ -27,20 +27,19 @@ The system uses **MongoDB** to store user information and demonstrates scalable 
 
 ## Project Structure
 
+```
 bulk-user-management/
 │
 ├── node_modules/
-│
 ├── src/
-│   │
 │   ├── Db/
 │   │   └── db.js
 │   │
 │   ├── model/
 │   │   └── userModel.js
 │   │
-│   ├── Route/
-│      └── userRoute.js
+│   └── Route/
+│       └── userRoute.js
 │
 ├── .env
 ├── .gitignore
@@ -48,6 +47,7 @@ bulk-user-management/
 ├── package.json
 ├── package-lock.json
 └── readme.md
+```
 
 ---
 
