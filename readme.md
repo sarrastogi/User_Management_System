@@ -61,12 +61,12 @@ PUT | /api/users/bulk-update | Update existing users
 ---
 
 ## Example Request (Bulk Create Users)
-
+```
 [
  { "name": "John Doe", "email": "john@example.com", "age": 25 },
  { "name": "Jane Smith", "email": "jane@example.com", "age": 28 }
 ]
-
+```
 ---
 
 ## API Request Flow
