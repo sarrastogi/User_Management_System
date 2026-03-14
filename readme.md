@@ -40,7 +40,7 @@ bulk-user-management/
 │   │   └── userModel.js
 │   │
 │   ├── Route/
-│   │   └── userRoute.js
+│      └── userRoute.js
 │
 ├── .env
 ├── .gitignore
